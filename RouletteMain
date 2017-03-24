@@ -4,5 +4,4 @@ public class Roulette {
         Raffle play = new Raffle();
         play.gamble(10, 30);
     }
-    
 }
